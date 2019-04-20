@@ -1,0 +1,2 @@
+# kuda-resolution
+rencana kedepan
